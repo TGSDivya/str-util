@@ -1,0 +1,21 @@
+{
+    "name": "divya/str-utilr-uti",
+    "description": "A very simple package first time by div",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "divya",
+            "email": "divya.patel@triveniglobalsoft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+             "StrUtil": "src/"
+         }
+    },
+    "require": {
+    	"php": ">=7.0.0"
+    }
+}
