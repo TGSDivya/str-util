@@ -1,11 +1,11 @@
 {
-    "name": "divya/str-utilr-uti",
+    "name": "tgsdivya/str-utilr-uti",
     "description": "A very simple package first time by div",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "divya",
+            "name": "tgsdivya",
             "email": "divya.patel@triveniglobalsoft.com"
         }
     ],
