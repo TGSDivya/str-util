@@ -9,7 +9,7 @@
             "email": "divya.patel@triveniglobalsoft.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
              "StrUtil": "src/"
